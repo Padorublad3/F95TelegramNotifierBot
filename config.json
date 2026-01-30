@@ -1,0 +1,6 @@
+{
+    "bot_key":"your_bot_api_key",
+    "chat_id":"your_chat_id",
+    "search_link":"search_link",
+    "rss_link":"rss_link"
+}
